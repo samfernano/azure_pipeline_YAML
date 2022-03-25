@@ -30,6 +30,7 @@ jobs:
     - script: echo "Hello, $(name)"
     
   ```
-  <a href=“https://docs.microsoft.com/en-us/learn/modules/integrate-azure-pipelines/2-describe-anatomy-of-pipeline“>Azure DevOps</a>
+According to [Azure](https://docs.microsoft.com/en-us/learn/modules/integrate-azure-pipelines/2-describe-anatomy-of-pipeline) the most pipelines will have these components:
+
 
   
